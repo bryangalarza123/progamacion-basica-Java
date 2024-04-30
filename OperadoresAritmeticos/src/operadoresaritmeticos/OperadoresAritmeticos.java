@@ -35,6 +35,6 @@ public class OperadoresAritmeticos {
         System.out.println("la miltiplicacion de la variable Uno y la variable 2 es: " + multiplicacion);
         System.out.println("la division de la variable Uno y la variable 2 es: " + division);
         System.out.println("la modulo de la variable Uno y la variable 2 es: " + modulo);
-        
+        //Bryan Max Checalla Galarza
     }
 }
